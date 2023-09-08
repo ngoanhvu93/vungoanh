@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/vungo.svg" width="1200" alt="Vu Ngo" />
+  <img src="vungo.svg" width="1200" alt="Vu Ngo" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
